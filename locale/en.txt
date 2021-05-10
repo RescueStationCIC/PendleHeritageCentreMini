@@ -1,0 +1,31 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = PendleHeritageCentreTour
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_552BA446_5CF9_4E2F_41D5_77E2AF40E48B.label = 8
+panorama_552C7E2E_5CF9_7A7F_41C2_32E7A411D6B8.label = 9
+panorama_552D625C_5CF9_4A23_41C5_5D678EAB40A4.label = 11
+panorama_552D6865_5CF9_46ED_41D4_BE802FD1D14A.label = 10
+panorama_552E3AFF_5CFB_3BDD_41BA_0BAEE97307FC.label = Atrium
+panorama_CB4AE43B_D051_93C3_41E7_B7823263C223.label = Exhibition
+
+## Action
+
+### URL
+LinkBehaviour_442F167F_62B0_B349_41C2_33F7CABBA8CD.source = https://www.rescuestation.org/#
+LinkBehaviour_46E45E1B_62B0_B2C9_41BF_8A84E4B5D3FA.source = https://play.google.com/store/apps/details?id=com.google.android.youtube#?v=1610974547863
+LinkBehaviour_4BFF6A7F_62B0_5349_419B_467BE5677A9D.source = https://apps.apple.com/gb/app/youtube-watch-listen-stream/id544007664#?v=1610974547863
