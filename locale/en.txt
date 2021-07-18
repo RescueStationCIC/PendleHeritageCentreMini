@@ -31,3 +31,4 @@ LinkBehaviour_46E45E1B_62B0_B2C9_41BF_8A84E4B5D3FA.source = https://play.google.
 LinkBehaviour_4BFF6A7F_62B0_5349_419B_467BE5677A9D.source = https://apps.apple.com/gb/app/youtube-watch-listen-stream/id544007664#?v=1610974547863
 PopupWebFrameBehaviour_A46986E1_B46D_AECA_41D7_418418633009.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/PHC/info_points/intro
 PopupWebFrameBehaviour_A5A6D500_B475_A34A_41D9_872B2C321AF1.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/PHC/info_points/intro
+PopupWebFrameBehaviour_A9E0CC2E_B880_710B_41D5_6819B5F783FC.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/PHC/info_points/masons_mark
