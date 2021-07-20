@@ -32,4 +32,8 @@ LinkBehaviour_4BFF6A7F_62B0_5349_419B_467BE5677A9D.source = https://apps.apple.c
 PopupWebFrameBehaviour_A46986E1_B46D_AECA_41D7_418418633009.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/PHC/info_points/intro
 PopupWebFrameBehaviour_A5A6D500_B475_A34A_41D9_872B2C321AF1.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/PHC/info_points/intro
 PopupWebFrameBehaviour_A9E0CC2E_B880_710B_41D5_6819B5F783FC.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/PHC/info_points/masons_mark
-PopupWebFrameBehaviour_DCB4E493_C106_B165_41D5_D78CE0C5C6CC.url = https://docs.google.com/document/d/e/2PACX-1vTVo3641naMOIF2VAeBZocX0SU5fhXe-p2NaJ9wj3JAmH4cziadUdaKtbqO1ifNUMKOUnAZeYTolDWQ/pub?embedded=true
+PopupWebFrameBehaviour_CA39B3F7_C517_7498_41DB_10B69FB2C309.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/PHC/info_points/window_wall
+PopupWebFrameBehaviour_D45FCC6C_C577_7388_41AF_5999EA21CF89.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/PHC/info_points/wallpaper
+PopupWebFrameBehaviour_D4C2477F_C573_3D88_41E2_C78FC6D60291.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/PHC/info_points/timber_post
+PopupWebFrameBehaviour_D7B972F1_C5F7_3498_41D7_AE981DD5B466.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/PHC/info_points/the_trust
+PopupWebFrameBehaviour_D7D34FFF_C533_2C88_41C6_57FF62A77442.url = https://rescuestationcic.github.io/HTNWDocuments/external/markdown/PHC/info_points/1600_roofline
