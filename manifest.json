@@ -1,6 +1,6 @@
 {
+ "theme_color": "#FFFFFF",
  "name": "PendleHeritageCentreTour",
- "background_color": "#FFFFFF",
  "icons": [
   {
    "src": "misc/icon16.png",
@@ -40,5 +40,5 @@
  ],
  "display": "fullscreen",
  "start_url": "index.htm",
- "theme_color": "#FFFFFF"
+ "background_color": "#FFFFFF"
 }
